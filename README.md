@@ -22,19 +22,6 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
-
-  ---
-
-  ### 📊 Mes Stats GitHub
-
-  <p align="center">
-    <a href="https://github.com/quelquun667">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quelquun667&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    </a>
-    <a href="https://github.com/quelquun667">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quelquun667&layout=compact&theme=tokyonight&hide_border=true" />
-    </a>
-  </p>
   
   ---
 
