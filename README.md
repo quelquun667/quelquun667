@@ -2,17 +2,18 @@
 
   # Salut, je suis Quelqu'un ! 👋
   
-  ### Développeur Fullstack | Automatisation & Outils IA
+  ### Je crée des projets et des outils sur mon temps libre
   
   <p>
-    J'aime créer des outils pour optimiser les workflows et simplifier la vie des devs.
+    Je crée des outils, scripts et petits projets pour m’amuser, apprendre  
+    et automatiser des trucs qui me prennent la tête, souvent en mode vibe coding.  
     <br>
-    Actuellement sur : <b>GitToolz</b> & scripts d'automatisation.
+    Quelques idées sorties du garage et expérimentations en cours 👇
   </p>
 
   ---
 
-  ### 🛠️ Mes Outils & Langages
+  ### 🛠️ Outils & langages que j’utilise
 
   <p>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -24,24 +25,37 @@
 
   ---
 
-  ### 📊 Mes Statistiques GitHub
+  ### 📊 Mes Stats GitHub
 
   <p align="center">
     <a href="https://github.com/quelquun667">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quelquun667&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Quelquun667's Stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quelquun667&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     </a>
     <a href="https://github.com/quelquun667">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quelquun667&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quelquun667&layout=compact&theme=tokyonight&hide_border=true" />
     </a>
   </p>
   
   ---
-  
-  ### 🚀 Projets en vedette
-  
+
+  ### 🚀 Projets
+
   | Projet | Description | Techno |
   | :--- | :--- | :--- |
-  | **[GitToolz](https://github.com/quelquun667/GitToolz)** | IDE-like environment pour booster le workflow Git avec l'IA. | TypeScript |
-  | **[Projet-Voltaire-Auto](https://github.com/quelquun667/Projet-Voltaire-Auto-Solve)** | Script d'automatisation pour la certification Voltaire. | HTML/JS |
+  | **[GitToolz](https://github.com/quelquun667/GitToolz)** | Expérimentations autour du workflow Git, avec des idées d’outils pour faciliter ou automatiser certaines tâches. | TypeScript |
+  | **[Projet-Voltaire-Auto-Solve](https://github.com/quelquun667/Projet-Voltaire-Auto-Solve)** | Scripts qui automatisent des interactions sur Projet Voltaire pour tester des solutions rapidement. | HTML / JavaScript |
+  | **[GitStarPlus](https://github.com/quelquun667/GitStarPlus)** | Petits scripts/outils pour explorer ou manipuler les étoiles sur GitHub (bonus UI, automatisation, idées). | JavaScript |
+  | **[Igensia-Enhancer](https://github.com/quelquun667/Igensia-Enhancer)** | Enhancement UI/script pour améliorer l’usage ou l’expérience de la plateforme Igensia. | JavaScript |
+  | **[Python-Password-Generator](https://github.com/quelquun667/Python-Password-Generator)** | Script Python simple qui génère des mots de passe aléatoires pour s’entraîner avec Python et la logique random. | Python |
 
-</div>
+  ---
+
+  <p align="center">
+    <a href="https://github.com/quelquun667?tab=repositories">
+      📂 Voir tous mes autres projets
+    </a>
+  </p>
+
+  <p>
+    <sub>
+      🧠 La plupart de mes projets sont faits en mode <i>
