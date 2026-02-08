@@ -45,4 +45,4 @@
 
   <p>
     <sub>
-      🧠 La plupart de mes projets sont faits en mode <i>
+      🧠 La plupart de mes projets sont faits en vibe coding <i>
