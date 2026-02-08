@@ -1,19 +1,23 @@
 <div align="center">
 
-  # Salut, je suis Quelqu'un ! 👋
+  # Hi, I'm Quelqu'un! 👋
   
-  ### Je crée des projets et des outils sur mon temps libre
+  ### I build projects and tools in my spare time
   
   <p>
-    Je crée des outils, scripts et petits projets pour m’amuser, apprendre  
-    et automatiser des trucs qui me prennent la tête, souvent en mode vibe coding.  
+    I create tools, scripts, and small projects for fun, learning,  
+    and to automate things that annoy me, often in "vibe coding" mode.  
     <br>
-    Quelques idées sorties du garage et expérimentations en cours 👇
+    Here are some ideas fresh out of the garage and ongoing experiments 👇
+  </p>
+
+  <p>
+    <b>✨ Check out my creative side: <a href="https://quelquun667.github.io/VFX-Portfolio/">My VFX Portfolio</a> ✨</b>
   </p>
 
   ---
 
-  ### 🛠️ Outils & langages que j’utilise
+  ### 🛠️ Tools & Languages I use
 
   <p>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -25,24 +29,27 @@
   
   ---
 
-  ### 🚀 Projets
+  ### 🚀 Projects
 
-  | Projet | Description | Techno |
+  | Project | Description | Stack |
   | :--- | :--- | :--- |
-  | **[GitToolz](https://github.com/quelquun667/GitToolz)** | Expérimentations autour du workflow Git, avec des idées d’outils pour faciliter ou automatiser certaines tâches. | TypeScript |
-  | **[Projet-Voltaire-Auto-Solve](https://github.com/quelquun667/Projet-Voltaire-Auto-Solve)** | Scripts qui automatisent des interactions sur Projet Voltaire pour tester des solutions rapidement. | HTML / JavaScript |
-  | **[GitStarPlus](https://github.com/quelquun667/GitStarPlus)** | Petits scripts/outils pour explorer ou manipuler les étoiles sur GitHub (bonus UI, automatisation, idées). | JavaScript |
-  | **[Igensia-Enhancer](https://github.com/quelquun667/Igensia-Enhancer)** | Enhancement UI/script pour améliorer l’usage ou l’expérience de la plateforme Igensia. | JavaScript |
-  | **[Python-Password-Generator](https://github.com/quelquun667/Python-Password-Generator)** | Script Python simple qui génère des mots de passe aléatoires pour s’entraîner avec Python et la logique random. | Python |
+  | **[GitToolz](https://github.com/quelquun667/GitToolz)** | Experiments around Git workflows, with tool ideas to facilitate or automate certain tasks. | TypeScript |
+  | **[Projet-Voltaire-Auto-Solve](https://github.com/quelquun667/Projet-Voltaire-Auto-Solve)** | Scripts automating interactions on Projet Voltaire to test solutions quickly. | HTML / JavaScript |
+  | **[GitStarPlus](https://github.com/quelquun667/GitStarPlus)** | Small scripts/tools to explore or manipulate GitHub stars (bonus UI, automation, ideas). | JavaScript |
+  | **[Igensia-Enhancer](https://github.com/quelquun667/Igensia-Enhancer)** | Enhancement UI/script to improve the usage and experience of the Igensia platform. | JavaScript |
+  | **[Python-Password-Generator](https://github.com/quelquun667/Python-Password-Generator)** | Simple Python script that generates random passwords to practice Python and random logic. | Python |
 
   ---
 
   <p align="center">
     <a href="https://github.com/quelquun667?tab=repositories">
-      📂 Voir tous mes autres projets
+      📂 View all my other repositories
     </a>
   </p>
 
   <p>
     <sub>
-      🧠 La plupart de mes projets sont faits en vibe coding <i>
+      🧠 Most of my projects are made via vibe coding <i>
+    </sub>
+  </p>
+</div>
