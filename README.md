@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
   
@@ -34,7 +35,7 @@
   | Project | Description | Stack |
   | :--- | :--- | :--- |
   | **[GitToolz](https://github.com/quelquun667/GitToolz)** | Experiments around Git workflows, with tool ideas to facilitate or automate certain tasks. | TypeScript |
-  | **[Projet-Voltaire-Auto-Solve](https://github.com/quelquun667/Projet-Voltaire-Auto-Solve)** | Scripts automating interactions on Projet Voltaire to test solutions quickly. | HTML / JavaScript |
+  | **[Vigil-WebRTC](https://github.com/quelquun667/Vigil-WebRTC)** | Experimental tool for real-time monitoring and communication using WebRTC protocols. | JavaScript / WebRTC |
   | **[GitStarPlus](https://github.com/quelquun667/GitStarPlus)** | Small scripts/tools to explore or manipulate GitHub stars (bonus UI, automation, ideas). | JavaScript |
   | **[Igensia-Enhancer](https://github.com/quelquun667/Igensia-Enhancer)** | Enhancement UI/script to improve the usage and experience of the Igensia platform. | JavaScript |
   | **[Python-Password-Generator](https://github.com/quelquun667/Python-Password-Generator)** | Simple Python script that generates random passwords to practice Python and random logic. | Python |
