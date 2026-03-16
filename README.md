@@ -37,6 +37,7 @@
   | **[GitToolz](https://github.com/quelquun667/GitToolz)** | Experiments around Git workflows, with tool ideas to facilitate or automate certain tasks. | TypeScript |
   | **[Vigil-WebRTC](https://github.com/quelquun667/Vigil-WebRTC)** | Experimental tool for real-time monitoring and communication using WebRTC protocols. | JavaScript / WebRTC |
   | **[GitStarPlus](https://github.com/quelquun667/GitStarPlus)** | Small scripts/tools to explore or manipulate GitHub stars (bonus UI, automation, ideas). | JavaScript |
+  | **[Projet-Voltaire-Solver](https://github.com/quelquun667/Projet-Voltaire-Solver)** | Automation extension designed to solve grammar exercises on the Projet Voltaire platform. | JavaScript |
   | **[Igensia-Enhancer](https://github.com/quelquun667/Igensia-Enhancer)** | Enhancement UI/script to improve the usage and experience of the Igensia platform. | JavaScript |
   | **[Python-Password-Generator](https://github.com/quelquun667/Python-Password-Generator)** | Simple Python script that generates random passwords to practice Python and random logic. | Python |
 
