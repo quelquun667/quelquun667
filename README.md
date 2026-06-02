@@ -1,49 +1,56 @@
+<!--
+  quelquun667 — GitHub Profile README
+  Repo : quelquun667/quelquun667
+-->
+
 <div align="center">
-  # Hi, I'm Quelqu'un! 👋
-  
-  ### I build projects and tools in my spare time
-  
-  <p>
-    I create tools, scripts, and small projects for fun, learning,  
-    and to automate things that annoy me, often in "vibe coding" mode.  
-    <br>
-    Here are some ideas fresh out of the garage and ongoing experiments 👇
-  </p>
-  <p>
-    <b>✨ Check out my creative side: <a href="https://quelquun667.github.io/VFX-Portfolio/">My VFX Portfolio</a> ✨</b>
-  </p>
-  ---
-  ### 🛠️ Tools & Languages I use
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
-  
-  ---
-  ### 🚀 Projects
-  | Project | Description | Stack |
-  | :--- | :--- | :--- |
-  | **[GitToolz](https://github.com/quelquun667/GitToolz)** | Experiments around Git workflows, with tool ideas to facilitate or automate certain tasks. | TypeScript |
-  | **[Vigil-WebRTC](https://github.com/quelquun667/Vigil-WebRTC)** | Experimental tool for real-time monitoring and communication using WebRTC protocols. | JavaScript / WebRTC |
-  | **[GitStarPlus](https://github.com/quelquun667/GitStarPlus)** | Small scripts/tools to explore or manipulate GitHub stars (bonus UI, automation, ideas). | JavaScript |
-  | **[FaciliWeb](https://github.com/quelquun667/FaciliWeb)** | Browser extension (MV3) for safer and more accessible web browsing — anti-phishing, encrypted password manager, educational guides. | JavaScript / HTML / CSS |
-  | **[MemePose](https://github.com/quelquun667/MemePose)** | Real-time meme overlay triggered by hand gestures and facial expressions, powered by MediaPipe. | Python |
-  | **[Projet-Voltaire-Solver](https://github.com/quelquun667/Projet-Voltaire-Solver)** | Automation extension designed to solve grammar exercises on the Projet Voltaire platform. | JavaScript |
-  | **[Igensia-Enhancer](https://github.com/quelquun667/Igensia-Enhancer)** | Enhancement UI/script to improve the usage and experience of the Igensia platform. | JavaScript |
-  | **[Python-Password-Generator](https://github.com/quelquun667/Python-Password-Generator)** | Simple Python script that generates random passwords to practice Python and random logic. | Python |
-  ---
-  <p align="center">
-    <a href="https://github.com/quelquun667?tab=repositories">
-      📂 View all my other repositories
-    </a>
-  </p>
-  <p>
-    <sub>
-      🧠 Most of my projects are made via vibe coding <i>
-    </sub>
-  </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Quelqu'un+%F0%9F%91%8B;Vibe+coder;Browser+extensions+%7C+Scripts+%7C+Tools;Roblox+VFX+maker+on+the+side)](https://quelquun667.github.io/VFX-Portfolio/)
+
+</div>
+
+---
+
+### 👤 About me
+
+- 🔧 I build tools, scripts and extensions — mostly to automate things that annoy me
+- 🎮 Roblox **VFX maker** — check my **[VFX Portfolio](https://quelquun667.github.io/VFX-Portfolio/)**
+- 🧠 Most of my projects are made in vibe coding mode — ideas first, polish later
+
+---
+
+### 🛠️ Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,bash,lua,git,vscode,github)](https://skillicons.dev)
+
+---
+
+### 🚀 Projects
+
+| | Project | Description | Lang |
+|---|---|---|---|
+| 🛡️ | **[FaciliWeb](https://github.com/quelquun667/FaciliWeb)** | MV3 browser extension — anti-phishing, encrypted password manager, accessibility guides | JS / HTML / CSS |
+| 📡 | **[Vigil-WebRTC](https://github.com/quelquun667/Vigil-WebRTC)** | Real-time monitoring & communication tool using WebRTC | JS / WebRTC |
+| 🎭 | **[MemePose](https://github.com/quelquun667/MemePose)** | Real-time meme overlay triggered by hand gestures & facial expressions via MediaPipe | Python |
+| 🔧 | **[GitToolz](https://github.com/quelquun667/GitToolz)** | Experiments around Git workflows & automation tooling | TypeScript |
+| ⭐ | **[GitStarPlus](https://github.com/quelquun667/GitStarPlus)** | Enhanced UI & automation around GitHub stars | JavaScript |
+| 📝 | **[Projet-Voltaire-Solver](https://github.com/quelquun667/Projet-Voltaire-Solver)** `v2.1.1` ⭐ 2 | Chrome extension — auto-solves Projet Voltaire via React Fiber extraction | JS / HTML |
+| 🌍 | **[Global-Exam-Solver](https://github.com/quelquun667/Global-Exam-Solver)** `v0.1.0` | Chrome extension — auto-answers GlobalExam exercises via Inertia.js/Vue state | JavaScript |
+| 🏫 | **[Igensia-Enhancer](https://github.com/quelquun667/Igensia-Enhancer)** | UI enhancement script for the Igensia platform | JavaScript |
+| 🔑 | **[Python-Password-Generator](https://github.com/quelquun667/Python-Password-Generator)** | Simple random password generator | Python |
+
+<p align="center">
+  <a href="https://github.com/quelquun667?tab=repositories">📂 All repositories →</a>
+</p>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+![quelquun667's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelquun667&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelquun667&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316)
+
 </div>
