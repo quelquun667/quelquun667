@@ -50,7 +50,7 @@
 <div align="center">
 
 ![quelquun667's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelquun667&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)
-&nbsp;
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelquun667&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316)
 
 </div>
