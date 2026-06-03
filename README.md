@@ -34,8 +34,8 @@
 | 🎭 | **[MemePose](https://github.com/quelquun667/MemePose)** | Real-time meme overlay triggered by hand gestures & facial expressions via MediaPipe | Python |
 | 🔧 | **[GitToolz](https://github.com/quelquun667/GitToolz)** | Experiments around Git workflows & automation tooling | TypeScript |
 | ⭐ | **[GitStarPlus](https://github.com/quelquun667/GitStarPlus)** | Enhanced UI & automation around GitHub stars | JavaScript |
-| 📝 | **[Projet-Voltaire-Solver](https://github.com/quelquun667/Projet-Voltaire-Solver)** `v2.1.1` ⭐ 2 | Chrome extension — auto-solves Projet Voltaire via React Fiber extraction | JS / HTML |
-| 🌍 | **[Global-Exam-Solver](https://github.com/quelquun667/Global-Exam-Solver)** `v0.1.0` | Chrome extension — auto-answers GlobalExam exercises via Inertia.js/Vue state | JavaScript |
+| 📝 | **[Projet-Voltaire-Solver](https://github.com/quelquun667/Projet-Voltaire-Solver)** | Chrome extension — auto-solves Projet Voltaire via React Fiber extraction | JS / HTML |
+| 🌍 | **[Global-Exam-Solver](https://github.com/quelquun667/Global-Exam-Solver)** | Chrome extension — auto-answers GlobalExam exercises via Inertia.js/Vue state | JavaScript |
 | 🏫 | **[Igensia-Enhancer](https://github.com/quelquun667/Igensia-Enhancer)** | UI enhancement script for the Igensia platform | JavaScript |
 | 🔑 | **[Python-Password-Generator](https://github.com/quelquun667/Python-Password-Generator)** | Simple random password generator | Python |
 
@@ -49,8 +49,8 @@
 
 <div align="center">
 
-![quelquun667's GitHub stats](https://github-readme-stats.vercel.app/api?username=quelquun667&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)
+![stats](https://github-readme-stats-quelquun667.vercel.app/api?username=quelquun667&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quelquun667&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316)
+![langs](https://github-readme-stats-quelquun667.vercel.app/api/top-langs/?username=quelquun667&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316)
 
 </div>
