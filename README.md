@@ -29,10 +29,10 @@
 
 <div align="center">
 
-[![FaciliWeb](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=FaciliWeb&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/FaciliWeb)
-[![Global-Exam-Solver](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=Global-Exam-Solver&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/Global-Exam-Solver)
 [![Projet-Voltaire-Solver](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=Projet-Voltaire-Solver&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/Projet-Voltaire-Solver)
+[![Igensia-Enhancer](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=Igensia-Enhancer&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/Igensia-Enhancer)
 [![MemePose](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=MemePose&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/MemePose)
+[![awesome-star-citizen](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=awesome-star-citizen&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/awesome-star-citizen)
 
 </div>
 
