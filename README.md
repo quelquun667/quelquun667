@@ -25,19 +25,16 @@
 
 ---
 
-### 🚀 Projects
+### 📌 Featured Projects
 
-| | Project | Description | Lang |
-|---|---|---|---|
-| 🛡️ | **[FaciliWeb](https://github.com/quelquun667/FaciliWeb)** | MV3 browser extension — anti-phishing, encrypted password manager, accessibility guides | JS / HTML / CSS |
-| 📡 | **[Vigil-WebRTC](https://github.com/quelquun667/Vigil-WebRTC)** | Real-time monitoring & communication tool using WebRTC | JS / WebRTC |
-| 🎭 | **[MemePose](https://github.com/quelquun667/MemePose)** | Real-time meme overlay triggered by hand gestures & facial expressions via MediaPipe | Python |
-| 🔧 | **[GitToolz](https://github.com/quelquun667/GitToolz)** | Experiments around Git workflows & automation tooling | TypeScript |
-| ⭐ | **[GitStarPlus](https://github.com/quelquun667/GitStarPlus)** | Enhanced UI & automation around GitHub stars | JavaScript |
-| 📝 | **[Projet-Voltaire-Solver](https://github.com/quelquun667/Projet-Voltaire-Solver)** | Chrome extension — auto-solves Projet Voltaire via React Fiber extraction | JS / HTML |
-| 🌍 | **[Global-Exam-Solver](https://github.com/quelquun667/Global-Exam-Solver)** | Chrome extension — auto-answers GlobalExam exercises via Inertia.js/Vue state | JavaScript |
-| 🏫 | **[Igensia-Enhancer](https://github.com/quelquun667/Igensia-Enhancer)** | UI enhancement script for the Igensia platform | JavaScript |
-| 🔑 | **[Python-Password-Generator](https://github.com/quelquun667/Python-Password-Generator)** | Simple random password generator | Python |
+<div align="center">
+
+[![FaciliWeb](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=FaciliWeb&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/FaciliWeb)
+[![Global-Exam-Solver](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=Global-Exam-Solver&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/Global-Exam-Solver)
+[![Projet-Voltaire-Solver](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=Projet-Voltaire-Solver&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/Projet-Voltaire-Solver)
+[![MemePose](https://github-readme-stats-quelquun667.vercel.app/api/pin/?username=quelquun667&repo=MemePose&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)](https://github.com/quelquun667/MemePose)
+
+</div>
 
 <p align="center">
   <a href="https://github.com/quelquun667?tab=repositories">📂 All repositories →</a>
@@ -49,8 +46,9 @@
 
 <div align="center">
 
-![stats](https://github-readme-stats-quelquun667.vercel.app/api?username=quelquun667&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)
+![quelquun667's GitHub stats](https://github-readme-stats-quelquun667.vercel.app/api?username=quelquun667&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)
+![Top Langs](https://github-readme-stats-quelquun667.vercel.app/api/top-langs/?username=quelquun667&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316)
 
-![langs](https://github-readme-stats-quelquun667.vercel.app/api/top-langs/?username=quelquun667&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quelquun667&theme=react-dark&hide_border=true&bg_color=0d1117&color=f97316&line=f97316&point=ffffff)](https://github.com/quelquun667)
 
 </div>
